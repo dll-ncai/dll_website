@@ -1,0 +1,85 @@
+[30-Apr-2020 11:22:12 UTC] WordPress database error Table 'dllseecs_wordpress.wp_wpforms_tasks_meta' doesn't exist for query SHOW FULL COLUMNS FROM `wp_wpforms_tasks_meta` made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPForms\WPForms->WPForms\{closure}, WPForms\Tasks\Tasks->init, WPForms\Tasks\Actions\EntryEmailsMetaCleanupTask->__construct, WPForms\Tasks\Actions\EntryEmailsMetaCleanupTask->init, WPForms\Tasks\Task->register, WPForms\Tasks\Meta->add, WPForms_DB->add
+[30-Apr-2020 11:22:12 UTC] WordPress database error Table 'dllseecs_wordpress.wp_wpforms_tasks_meta' doesn't exist for query SHOW FULL COLUMNS FROM `wp_wpforms_tasks_meta` made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPForms\WPForms->WPForms\{closure}, WPForms\Tasks\Tasks->init, WPForms\Tasks\Actions\EntryEmailsMetaCleanupTask->__construct, WPForms\Tasks\Actions\EntryEmailsMetaCleanupTask->init, WPForms\Tasks\Task->register, WPForms\Tasks\Meta->add, WPForms_DB->add
+[30-Apr-2020 11:22:13 UTC] WordPress database error Table 'dllseecs_wordpress.wp_wpforms_tasks_meta' doesn't exist for query SHOW FULL COLUMNS FROM `wp_wpforms_tasks_meta` made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPForms\WPForms->WPForms\{closure}, WPForms\Tasks\Tasks->init, WPForms\Tasks\Actions\EntryEmailsMetaCleanupTask->__construct, WPForms\Tasks\Actions\EntryEmailsMetaCleanupTask->init, WPForms\Tasks\Task->register, WPForms\Tasks\Meta->add, WPForms_DB->add
+[30-Apr-2020 11:22:14 UTC] WordPress database error Table 'dllseecs_wordpress.wp_wpforms_tasks_meta' doesn't exist for query SHOW FULL COLUMNS FROM `wp_wpforms_tasks_meta` made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WPForms\WPForms->WPForms\{closure}, WPForms\Tasks\Tasks->init, WPForms\Tasks\Actions\EntryEmailsMetaCleanupTask->__construct, WPForms\Tasks\Actions\EntryEmailsMetaCleanupTask->init, WPForms\Tasks\Task->register, WPForms\Tasks\Meta->add, WPForms_DB->add
+[06-Jun-2020 19:36:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 95 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[07-Jun-2020 07:52:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 110 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[07-Jun-2020 15:16:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 89 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[07-Jun-2020 15:21:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[07-Jun-2020 18:22:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2048 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[07-Jun-2020 18:23:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 90 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[07-Jun-2020 18:23:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 77 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[07-Jun-2020 18:23:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 90 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[07-Jun-2020 18:24:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2048 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[07-Jun-2020 18:24:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[07-Jun-2020 18:29:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 82 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[07-Jun-2020 18:29:28 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 99 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[08-Jun-2020 06:25:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 96 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[08-Jun-2020 06:26:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 96 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[08-Jun-2020 06:27:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 90 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[08-Jun-2020 06:28:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 88 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[08-Jun-2020 06:33:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 90 bytes) in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[08-Jun-2020 08:39:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1815
+[08-Jun-2020 11:22:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 59
+[08-Jun-2020 11:36:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/core/base/base-object.php on line 40
+[08-Jun-2020 20:30:10 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1815
+[10-Jun-2020 12:10:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/controls/slider.php on line 53
+[10-Jun-2020 15:08:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/core/base/document.php on line 0
+[11-Jun-2020 09:35:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1808
+[12-Jun-2020 12:17:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/core/base/document.php on line 0
+[12-Jun-2020 12:17:46 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1815
+[13-Jun-2020 09:14:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/controls/base-data.php on line 54
+[13-Jun-2020 18:48:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 62
+[13-Jun-2020 18:52:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/core/base/base-object.php on line 42
+[13-Jun-2020 19:01:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/controls/base-data.php on line 54
+[14-Jun-2020 07:07:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1301
+[14-Jun-2020 07:16:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 330
+[14-Jun-2020 07:41:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 59
+[14-Jun-2020 08:00:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/controls/dimensions.php on line 52
+[14-Jun-2020 14:17:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 330
+[14-Jun-2020 15:00:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/controls/base-multiple.php on line 49
+[14-Jun-2020 15:07:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1815
+[14-Jun-2020 15:08:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 508
+[14-Jun-2020 15:09:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/core/files/css/base.php on line 333
+[22-Jun-2020 11:07:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1815
+[24-Jun-2020 16:29:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1815
+[01-Jul-2020 11:03:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1815
+[02-Jul-2020 13:45:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php on line 1819
+[11-Nov-2020 18:06:18 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/dllseecs/public_html/wp-content/plugins/ninja-forms/ninja-forms.php:1288
+Stack trace:
+#0 /home/dllseecs/public_html/wp-includes/class-wp-hook.php(287): nf_update_marketing_feed()
+#1 /home/dllseecs/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/dllseecs/public_html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#3 /home/dllseecs/public_html/wp-cron.php(138): do_action_ref_array('nf_marketing_fe...', Array)
+#4 {main}
+  thrown in /home/dllseecs/public_html/wp-content/plugins/ninja-forms/ninja-forms.php on line 1288
+[12-Jun-2021 20:28:22 UTC] PHP Warning:  sprintf(): Too few arguments in /home/dllseecs/public_html/wp-includes/nav-menu-template.php on line 277
+[02-Sep-2022 01:06:45 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/dllseecs/public_html/wp-includes/class-wp-query.php on line 779
+[02-Sep-2022 01:06:50 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/dllseecs/public_html/wp-includes/class-wp-query.php on line 779
+[02-Sep-2022 02:54:17 UTC] PHP Warning:  sprintf(): Too few arguments in /home/dllseecs/public_html/wp-includes/nav-menu-template.php on line 277
+[02-Sep-2022 04:45:38 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/compatibility.php on line 267
+[02-Sep-2022 05:29:06 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/dllseecs/public_html/wp-includes/class-wp-query.php on line 779
+[12-Sep-2022 10:51:55 UTC] PHP Warning:  sprintf(): Too few arguments in /home/dllseecs/public_html/wp-includes/nav-menu-template.php on line 277
+[19-Sep-2022 06:31:28 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/dllseecs/public_html/wp-includes/class-wp-query.php on line 779
+[19-Sep-2022 08:36:37 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/dllseecs/public_html/wp-content/plugins/elementor/includes/compatibility.php on line 267
+[19-Sep-2022 08:52:59 UTC] PHP Warning:  sprintf(): Too few arguments in /home/dllseecs/public_html/wp-includes/nav-menu-template.php on line 277
+[12-Oct-2022 17:38:59 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/dllseecs/public_html/wp-content/plugins/ninja-forms/ninja-forms.php:1304
+Stack trace:
+#0 /home/dllseecs/public_html/wp-includes/class-wp-hook.php(287): nf_update_marketing_feed()
+#1 /home/dllseecs/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/dllseecs/public_html/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#3 /home/dllseecs/public_html/wp-cron.php(138): do_action_ref_array('nf_marketing_fe...', Array)
+#4 {main}
+  thrown in /home/dllseecs/public_html/wp-content/plugins/ninja-forms/ninja-forms.php on line 1304
+[19-Oct-2022 17:26:38 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/dllseecs/public_html/wp-content/plugins/ninja-forms/ninja-forms.php:1304
+Stack trace:
+#0 /home/dllseecs/public_html/wp-includes/class-wp-hook.php(287): nf_update_marketing_feed()
+#1 /home/dllseecs/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/dllseecs/public_html/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#3 /home/dllseecs/public_html/wp-cron.php(138): do_action_ref_array('nf_marketing_fe...', Array)
+#4 {main}
+  thrown in /home/dllseecs/public_html/wp-content/plugins/ninja-forms/ninja-forms.php on line 1304
+[22-Nov-2022 14:02:06 UTC] PHP Warning:  filesize(): stat failed for /home/dllseecs/public_html/wp-content/cache/object/602/dc1/602dc128d58bd2f56e4f9a69c4b3cfc2.php in /home/dllseecs/public_html/wp-content/plugins/w3-total-cache/Cache_File.php on line 159
+[14-Oct-2023 03:49:48 UTC] Cron reschedule event error for hook: w3_objectcache_cleanup, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"w3_objectcache_cleanup","args":[],"interval":3600}
+[14-Oct-2023 03:49:48 UTC] Cron unschedule event error for hook: w3_objectcache_cleanup, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"w3_objectcache_cleanup","args":[],"interval":3600}
+[14-Oct-2023 03:50:19 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
